@@ -1,12 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: tlees # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: stormmage.com
-    url: stormmage.com
+    url: https://stormmage.com
   - name: frog.stormmage.com
-    url: stormmage.com:8081
+    url: http://stormmage.com:8081
 
 assignees:
   - tlees
