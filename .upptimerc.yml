@@ -6,7 +6,7 @@ sites:
   - name: stormmage.com
     url: https://stormmage.com
   - name: frog.stormmage.com
-    url: http://stormmage.com:8081
+    url: http://frog.stormmage.com
 
 assignees:
   - tlees
