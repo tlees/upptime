@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
-    "time": 501,
-    "timeDay": 603,
-    "timeWeek": 406,
+    "time": 500,
+    "timeDay": 168,
+    "timeWeek": 397,
     "timeMonth": 373,
     "timeYear": 393,
     "dailyMinutesDown": {
@@ -30,8 +30,7 @@
       "2023-02-18": 1037,
       "2023-02-17": 1410,
       "2023-02-08": 67,
-      "2023-02-07": 19,
-      "2023-01-30": 63
+      "2023-02-07": 19
     }
   },
   {
@@ -40,15 +39,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/frog.stormmage.com.ico",
     "slug": "frog-stormmage-com",
     "status": "up",
-    "uptime": "69.61%",
+    "uptime": "69.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.36%",
-    "time": 262,
-    "timeDay": 316,
-    "timeWeek": 179,
-    "timeMonth": 166,
+    "uptimeYear": "87.63%",
+    "time": 261,
+    "timeDay": 63,
+    "timeWeek": 172,
+    "timeMonth": 167,
     "timeYear": 265,
     "dailyMinutesDown": {
       "2023-12-27": 25,
@@ -103,8 +102,7 @@
       "2023-02-03": 1440,
       "2023-02-02": 1440,
       "2023-02-01": 1440,
-      "2023-01-31": 1440,
-      "2023-01-30": 1440
+      "2023-01-31": 1440
     }
   }
 ]
