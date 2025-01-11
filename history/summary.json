@@ -4,7 +4,7 @@
     "url": "https://stormmage.com",
     "icon": "https://icons.duckduckgo.com/ip3/stormmage.com.ico",
     "slug": "stormmage-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 388,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2025-01-11": 0,
       "2024-03-20": 25
     }
   },
