@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: stormmage.com
-    url: https://stormmage.com
+    url: https://www.stormmage.com
   - name: frog.stormmage.com
     url: https://frog.stormmage.com
 
@@ -14,7 +14,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: stormmage.com
+  cname: www.stormmage.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
