@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stormmage.com.ico",
     "slug": "stormmage-com",
     "status": "up",
-    "uptime": "81.49%",
+    "uptime": "81.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.90%",
+    "uptimeYear": "44.18%",
     "time": 259,
-    "timeDay": 156,
-    "timeWeek": 117,
+    "timeDay": 148,
+    "timeWeek": 125,
     "timeMonth": 144,
-    "timeYear": 169,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2025-11-18": 218,
       "2025-08-12": 931,
@@ -219,8 +219,7 @@
       "2025-01-25": 1440,
       "2025-01-24": 1440,
       "2025-01-23": 1440,
-      "2025-01-22": 1440,
-      "2025-01-21": 1440
+      "2025-01-22": 1440
     }
   },
   {
@@ -229,15 +228,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/frog.stormmage.com.ico",
     "slug": "frog-stormmage-com",
     "status": "up",
-    "uptime": "87.95%",
+    "uptime": "87.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 183,
-    "timeDay": 144,
-    "timeWeek": 169,
-    "timeMonth": 188,
+    "time": 182,
+    "timeDay": 189,
+    "timeWeek": 166,
+    "timeMonth": 186,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-11-18": 176
