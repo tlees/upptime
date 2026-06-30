@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stormmage.com.ico",
     "slug": "stormmage-com",
     "status": "up",
-    "uptime": "83.67%",
+    "uptime": "83.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.76%",
+    "uptimeYear": "88.03%",
     "time": 158,
-    "timeDay": 76,
-    "timeWeek": 109,
-    "timeMonth": 130,
+    "timeDay": 190,
+    "timeWeek": 122,
+    "timeMonth": 127,
     "timeYear": 158,
     "dailyMinutesDown": {
       "2025-08-12": 931,
@@ -59,7 +59,6 @@
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
-      "2025-06-30": 1440,
       "2025-11-18": 218
     }
   },
@@ -75,10 +74,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 180,
-    "timeDay": 126,
-    "timeWeek": 143,
-    "timeMonth": 156,
-    "timeYear": 176,
+    "timeDay": 148,
+    "timeWeek": 142,
+    "timeMonth": 154,
+    "timeYear": 175,
     "dailyMinutesDown": {
       "2025-11-18": 176,
       "2026-01-30": 35
